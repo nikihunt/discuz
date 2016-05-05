@@ -12,8 +12,8 @@ GAP = 5
 DEFAULT_COMMENT = "，很不错的电影，重温一下！"
 LOOPTIME = 60*60
 #------------------------------------登录模块--------------------------------------
-USERNAME = 'zlz'
-PASSWORD = 'xkr@1990'
+USERNAME = ''
+PASSWORD = ''
 
 LOGINFIELD = r'username'
 
